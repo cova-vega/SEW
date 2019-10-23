@@ -4,7 +4,7 @@ body {
     color: #818181;
     background-color: white;
 }
-h1,h2,h3,h4,h5,h6 {
+h1{
     background-color:#FF5733;
     color: #fff;
     text-transform: uppercase;
