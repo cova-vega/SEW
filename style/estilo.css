@@ -65,6 +65,17 @@ a:visited{
     text-decoration: underline;
     color:red;
 }
+li{
+    text-align: justify;
+    color: #510F58;
+    text-decoration: none;
+    font-size: 20px;
+    voice-family: inherit;
+}
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+}
 
 
 
