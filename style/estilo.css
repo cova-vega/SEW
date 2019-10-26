@@ -1,3 +1,7 @@
+/*
+
+a=0,b=0,c=1
+ */
 body {
     font: 400 15px Tahoma, sans-serif;
     line-height: 1.8;
@@ -5,7 +9,10 @@ body {
     background-color: gray;
 
 }
+/*
 
+a=0,b=0,c=6
+ */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
@@ -16,74 +23,110 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
 
 }
+/*
 
+a=0,b=0,c=3
+ */
 h1, h3, h5 {
     font-stretch: expanded;
 }
+/*
 
+a=0,b=0,c=3
+ */
 h2, h4, h6 {
     font-style: italic;
 }
+/*
 
+a=0,b=0,c=1
+ */
 h1 {
     font-size: 7em;
     letter-spacing: 10px;
     border-radius: 22px;
 }
+/*
 
+a=0,b=0,c=1
+ */
 h2 {
     font-size: 6em;
 }
+/*
 
+a=0,b=0,c=1
+ */
 h3 {
     font-size: 5em;
 }
+/*
 
+a=0,b=0,c=1
+ */
 h4 {
     font-size: 4em;
 }
+/*
 
+a=0,b=0,c=1
+ */
 h5 {
     font-size: 3em;
 }
+/*
 
+a=0,b=0,c=1
+ */
 h6 {
     font-size: 2em;
 }
+/*
 
+a=0,b=0,c=4
+ */
 p, li, tbody, a {
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.5em;
 
 }
+/*
 
+a=0,b=0,c=2
+ */
 p::first-letter {
     color: blue;
     font-size: 2em;
 }
+/*
 
+a=0,b=0,c=3
+ */
 p, li, table {
     background: white;
 }
 
-/*1*/
+/*
+
+a=0,b=0,c=1
+ */
 p {
     text-align: justify;
 }
 
-/*10*/
+/*a=0, b=1, c=1*/
 a:link {
     border-bottom: 5px dotted white;
     color: yellow;
     text-decoration: none;
 }
-
+/*a=0, b=1, c=1*/
 a:visited {
     border-bottom: 5px dotted transparent;
     text-decoration: underline;
     color: red;
 }
-
+/*a=0, b=0, c=1*/
 li {
     text-align: justify;
     color: #510F58;
@@ -91,7 +134,7 @@ li {
     font-size: 20px;
     voice-family: inherit;
 }
-
+/*a=0, b=0, c=3*/
 table, th, td {
     border: 1px solid black;
     text-align: center;
