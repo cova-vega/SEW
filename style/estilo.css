@@ -116,13 +116,13 @@ p {
 
 /*a=0, b=1, c=1*/
 a:link {
-    border-bottom: 5px dotted white;
+    border-bottom: 10px dotted white;
     color: yellow;
     text-decoration: none;
 }
 /*a=0, b=1, c=1*/
 a:visited {
-    border-bottom: 5px dotted transparent;
+    border-bottom: 10px dotted transparent;
     text-decoration: underline;
     color: green;
 }
