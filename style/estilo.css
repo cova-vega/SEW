@@ -124,7 +124,7 @@ a:link {
 a:visited {
     border-bottom: 5px dotted transparent;
     text-decoration: underline;
-    color: red;
+    color: green;
 }
 /*a=0, b=0, c=1*/
 li {
