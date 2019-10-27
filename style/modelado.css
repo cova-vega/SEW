@@ -17,8 +17,7 @@ main {
     color: #444;
 }
 /*
-
-a=0,b=0,c=2
+a=0,b=0,c=1
  */
 main h3 {
     grid-area: header;
@@ -47,7 +46,7 @@ main section {
 }
 /*
 
-a=0,b=0,c=3
+a=0,b=0,c=1
  */
 main section img {
     width: 100%;
