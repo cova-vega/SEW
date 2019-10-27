@@ -11,7 +11,7 @@ body {
 }
 /*
 
-a=0,b=0,c=6
+a=0,b=0,c=1
  */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
@@ -32,7 +32,7 @@ h1, h3, h5 {
 }
 /*
 
-a=0,b=0,c=3
+a=0,b=0,c=1
  */
 h2, h4, h6 {
     font-style: italic;
@@ -83,7 +83,7 @@ h6 {
 }
 /*
 
-a=0,b=0,c=4
+a=0,b=0,c=1
  */
 p, li, tbody, a {
     font-family: 'Ubuntu', sans-serif;
@@ -100,7 +100,7 @@ p::first-letter {
 }
 /*
 
-a=0,b=0,c=3
+a=0,b=0,c=1
  */
 p, li, table {
     background: white;
@@ -134,7 +134,7 @@ li {
     font-size: 20px;
     voice-family: inherit;
 }
-/*a=0, b=0, c=3*/
+/*a=0, b=0, c=1*/
 table, th, td {
     border: 1px solid black;
     text-align: center;
