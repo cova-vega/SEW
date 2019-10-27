@@ -116,15 +116,11 @@ p {
 
 /*a=0, b=1, c=1*/
 a:link {
-    border-bottom: 10px dotted white;
-    color: yellow;
-    text-decoration: none;
+    color: white; font-family: arial; text-decoration: none; padding-right: 50px;
 }
 /*a=0, b=1, c=1*/
 a:visited {
-    border-bottom: 10px dotted transparent;
-    text-decoration: underline;
-    color: green;
+    color: white; font-family: arial; text-decoration: none; padding-right: 50px;
 }
 /*a=0, b=0, c=1*/
 li {
